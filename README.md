@@ -5,5 +5,5 @@ This project provides a tool for cracking passwords of PDF files using brute for
 Clone the repository:
 
 
-git clone: https://github.com/arpiiitsingh/Crack-PDF-Password.git
+git clone: https://github.com/arpiiitttt/Crack-PDF-Password.git
 cd Crack-PDF-Password
